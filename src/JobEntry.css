@@ -1,0 +1,28 @@
+.job-entry {
+    display: flex;
+    max-width: 800px;
+    padding: 20px;
+    padding-bottom: 0;
+    margin-bottom: 10px;
+    border-left: 5px solid #f47d42;
+}
+#complete-button {
+    background-color: #f47d42;
+    border: 0.1rem solid #f47d42
+}
+
+#escalate-button {
+    color: #f47d42
+}
+
+.job-entry p {
+    margin: 0;
+}
+
+.job-details {
+    flex: 1;
+}
+
+.job-options {
+    width: 150px;
+}
